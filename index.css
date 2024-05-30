@@ -1,0 +1,36 @@
+body{
+ background-color:black;
+}
+
+.container{
+    border: 2px solid;
+    height: 350px;
+    width: 600px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: rgb(229, 255, 255);
+    line-height: 70px;
+    border-bottom: 0.5px solid lightcoral;
+  background-image: linear-gradient(rgb(37, 35, 35), black);
+  
+}
+.container h1{
+  position: relative;
+  color: palevioletred;
+  left: 190px;
+  font-size: 3rem;
+
+}
+.container i{
+    position: relative;
+   left: 250px;
+   font-size: 5em;
+   color: palevioletred;
+}
+.container  button{
+    height: 40px;
+    width: 110px;
+    font-size: 1.2em;
+    color: palevioletred;
+    margin-left: 70px;
+}
